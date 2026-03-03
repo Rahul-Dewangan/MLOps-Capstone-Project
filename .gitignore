@@ -209,5 +209,5 @@ __marimo__/
 cred.txt
 local_s3/
 MLOps-Capstone-IAM_accessKeys.csv
-data/
+
 models/
